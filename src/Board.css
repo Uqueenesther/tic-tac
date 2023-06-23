@@ -1,0 +1,25 @@
+
+.Board{
+    margin: 50px auto;
+   
+     
+   }
+   .container {
+     padding:5px;  
+   }
+   
+   .button-container{
+     display: flex;
+     align-items: center;
+      text-align: center;
+     
+   }
+   
+   .button{
+     font-size: 2rem;
+     text-align: center;
+     height: 3rem;
+     padding: 60px;
+     margin-left: 4px;
+     cursor: pointer;
+   }
